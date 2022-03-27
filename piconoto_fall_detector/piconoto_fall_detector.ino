@@ -14,9 +14,9 @@
 #define LED_PIN 25
 #define BTN_PIN 28
 #define BTN_LONG_PRESS_MS 3000
-#define MY_PRODUCT_ID       "com.yahoo.yokonav:activity_and_fall_detector"
-#define FROM_PHONE_NUMBER   "+16812529329"
-#define TO_PHONE_NUMBER     "+919582299749"
+#define MY_PRODUCT_ID       "com.xxxxx.yyy:your_project_id"
+#define FROM_PHONE_NUMBER   "+16xxxxxxxxx"
+#define TO_PHONE_NUMBER     "+8xxxxxxxxxxx"
 #define N_LOC 5
 
 void btnISR(void);
